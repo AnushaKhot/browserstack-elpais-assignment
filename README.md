@@ -33,7 +33,7 @@ The project demonstrates the use of:
 
 ##  Links
 
--  **BrowserStack Automate Build:** [View Build](https://automate.browserstack.com/projects/Default+Project/builds/ElPais+Articles+Load/2?tab=tests&testListView=spec)
+-  **BrowserStack Automate Build:** [View Build](https://automate.browserstack.com/projects/Default+Project/builds/ElPais+Articles+Load/2?tab=tests&testListView=spec&public_token=748471b95d2912dc2f338d5bf9b8116935d0e9fe0d46e0134b4dbb0e67d8df47)
 -  **Screenshot of Build Running:** [Google Drive Screenshot](https://drive.google.com/file/d/1S0ia8RUdg0g9dJ2ez9fzNWbuMlMaX9gz/view?usp=sharing)
 
 
